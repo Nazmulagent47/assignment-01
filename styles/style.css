@@ -6,7 +6,6 @@
 /* header styles */
 .banner {
     position: relative;
-    text-align: right;
     color: white;
 }
 
@@ -21,6 +20,7 @@
     padding-top: 200px;
     padding-right: 250px;
     color: black;
+    text-align: right;
 }
 
 .title {

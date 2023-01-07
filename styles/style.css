@@ -238,6 +238,10 @@
 
 input[type="email"]::placeholder {
     color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-left: 10px;
 }
 
 .btn-subscribe {

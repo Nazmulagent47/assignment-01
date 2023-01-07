@@ -105,6 +105,13 @@
 }
 
 /* My plans section styles */
+.plans {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
 .my-plans-section {
     margin: 50px 300px;
     text-align: center;
